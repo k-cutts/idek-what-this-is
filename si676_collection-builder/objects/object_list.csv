@@ -1,0 +1,6 @@
+filename,object_location,image_small,image_thumb
+image_001.png,/objects/image_001.png,/objects/small/image_001_sm.jpg,/objects/thumbs/image_001_th.jpg
+image_002.png,/objects/image_002.png,/objects/small/image_002_sm.jpg,/objects/thumbs/image_002_th.jpg
+image_003.png,/objects/image_003.png,/objects/small/image_003_sm.jpg,/objects/thumbs/image_003_th.jpg
+image_004.png,/objects/image_004.png,/objects/small/image_004_sm.jpg,/objects/thumbs/image_004_th.jpg
+image_005.png,/objects/image_005.png,/objects/small/image_005_sm.jpg,/objects/thumbs/image_005_th.jpg
