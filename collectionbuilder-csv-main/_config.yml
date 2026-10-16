@@ -20,7 +20,7 @@ source-code: https://github.com/k-cutts/si676_collection-builder
 # title of site appears in banner
 title: Katie Cutts's CollectionBuilder CSV Jekyll Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A selection of Fish & Fishing from LoC
+tagline: A selection from Fish & Fishing from LoC
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is my Collection Builder site for SI 676. I used images from the Library of Congress free to use page on fish and fishing."
@@ -34,7 +34,7 @@ author: Katie Cutts
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: lab4_20261008
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -50,11 +50,11 @@ metadata: demo-compoundobjects-metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: SI 676 Managing Digital Collections
+organization-link: https://https://www.si.umich.edu/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner:
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
