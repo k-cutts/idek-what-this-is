@@ -20,10 +20,10 @@ source-code: https://github.com/k-cutts/si676_collection-builder
 # title of site appears in banner
 title: Katie Cutts's CollectionBuilder CSV Jekyll Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: Fish & Fishing from LoC
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: ""
+description: "This is my Collection Builder site for SI 676. I used images from the Library of Congress free to use page on fish and fishing."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: fish; fishing; marine life
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
